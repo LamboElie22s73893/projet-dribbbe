@@ -1,0 +1,314 @@
+/* ----------------------premiere--------------------------------------page -------------------------------- */
+
+#idnav{
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.imagelarge{
+    margin-top: 100px;
+}
+
+#entete{
+    margin-top: 100px; 
+    font-size: 25px;
+   /* display: flex;*/
+    align-items: ;
+    position: relative;
+}
+#entete a{
+    /*position: absolute;*/
+    bottom: 0;
+    margin-left: -20px;
+}
+#entete img{
+    border-radius: 50px;
+}
+#entete h3{
+    white-space: nowrap;
+}
+#entete button{
+    margin-left: 500px;
+    height: 40px;
+    width: 200px;
+    background-color:  rgba(0, 0, 0, 0.788);
+    border-radius: 50px;
+}
+section {
+    margin-left: 150px;
+    margin-right: 100px;
+    
+}
+#blocarticle {
+    margin-left: 115px ;
+}
+#blocarticle p1,p2{
+    font-size: 10x;
+}
+#lienligne2  {
+    display: flex;
+    margin-right: 10px ;
+    font-weight: bold;
+
+}
+#div_telecharg{
+    border: 0,1px solid;
+    height: 80px;
+    width: 750px;
+    background-color: rgba(169, 169, 169, 0.185);
+    border-radius: 5px;
+    margin-top: 100px;
+    
+}
+#div_telecharg a{
+    margin-left: 600px;
+    border: 0,1px ;
+    height: 50px;
+    width: 90px;
+    border-radius: 50px;
+    background-color: white;
+}
+#div_telecharg2{
+    margin-top: 100px;
+    border: 0,1px;
+    background-color: rgba(169, 169, 169, 0.137);
+    width: 750px;
+}
+#imfinsection{
+    margin-left: 375px;
+    margin-top: -50px;
+    border-radius: 50px;
+    
+}
+#nomimfinsec{
+    color: black;
+    margin-left: 450px;
+}
+#imgfond ul {
+    display: flex;
+}
+#imgfond img {
+    height: auto;
+    width: 90%;
+}
+#idaside{
+    margin-left: 400px;
+}
+#idaside button{
+    margin-left: 90px;
+    border-radius: 50px;
+    background-color: black;
+}
+
+
+
+/* -----------deuxieme------------------------------page--------------------------------*/
+
+html, body{
+  height: 100%;
+  overflow-y: scroll;
+  
+  display: block;
+}
+#art1{
+   /* display: block; */
+    margin-right: 100px;
+}
+
+#corpsp2{
+}
+#entetedrible{
+    margin-top: 100px;
+}
+#pegranddiv{
+    display: flex;
+    width: 800px;
+    margin-top: 80px;
+  
+}
+#cadre1 p{
+    border: 1px solid;
+    width: 450px;
+    height: 430px;
+    border-radius: 30px;
+    font-size: 18px;
+}
+#cadre1 p a{
+    border: 1px solid;
+    font-weight: 500;
+    margin-top: 30px;
+    margin-left: 80px;
+    width: 300px;
+    height: 50px;
+    border-radius: 50px;
+}
+#cadre2 p{
+    border: 1px solid;
+    width: 450px;
+    height: 600px;
+    margin-left: 30px;
+    border-radius: 30px;
+}
+#cadre2 button{
+    margin-left: 50px;
+    background-color: black;
+    width: 300px;
+    border-radius: 50px;
+}
+#deugrdiv{
+    display: flex;
+    margin-top: 600px;
+    margin-left: -600px;
+}
+#cadre3{
+    
+    margin-top: 200px;
+    margin-left:-100px ;
+    width: 400px;
+    height: 300px;
+}
+#cadre3 a{
+   margin-top: 30px;
+   margin-left: 10px;
+   border-radius: 50px;
+   height: 45px;
+   width: 200px, 100px 300px;
+   background-color: black;
+}
+#ptitphr {
+    
+    height: 50px;
+    margin-top: 680px;
+    margin-left: -800px;
+    width: 800px;
+    size: 45px;
+}
+#ptitphr p{
+    width: 500px;
+    size: 45px;
+    height: 50px;
+    margin-left: 100px;
+}
+#cadre4 video{
+    height: 400px;
+    width: 600px;
+    margin-top: 200px;
+    margin-left: 50px;
+    border: 1px solid;
+    border-radius: 15px;
+}
+#troigrdiv{
+    display: flex;
+    margin-top: 200px;
+}
+#cadre5 video{
+    border: 1px solid;
+    height: 400px;
+    width: 600px;
+    margin-left: -80px;
+}
+#cadre6 p{
+    height: 400px;
+    width: 400px;
+    margin-left: 120px;
+    font-size: 20px;
+    margin-top: -400px;
+}
+#quatrgrdiv{
+    display: flex;
+    margin-top: 100px;
+}
+
+#cadre7 {
+    border: 1px solid;
+    width: 600px;
+    height: 300px;
+    font-size: 30px;
+    border-radius: 20px;
+}
+#cinqgrdiv {
+    margin-top: 100Px;
+    display: block;
+    margin-left: -100px;
+ }
+ #cinqgrdiv h2{
+    margin-left: 230Px;
+ }
+ #cadre8_1{
+    border:  1px;
+    height: 100px;
+    width: 500px;
+    margin-top: 100px;
+ }
+ #cadre8_2{
+    border:  1px;
+    height: 100px;
+    width: 500px;
+    margin-top: 100px;
+ }
+ #cadre8_3{
+    border:  1px;
+    height: 100px;
+    width: 500px;
+    margin-top: 100px;
+ }
+ #cinqgrdiv img{
+    border: 1px solid;
+    width: 400px;
+    height: 400px;
+    border-radius: 30px;
+    margin-top: 80px;
+    margin-left: 150px;
+ }
+ #cinqsousbl{
+    display: flex;
+ }
+ #pied{
+    display: block;
+    margin-top: 70px;
+    background-color: rgba(127, 255, 212, 0.151);
+   
+ }
+ #bloc1dupied{
+    border: 1px solid;
+    width: 500px;
+    height: 500px;
+    margin-top: 200px;
+    margin-left: 100px;
+    border-radius: 25px;
+    margin-bottom: 100px;
+    background-color: rgba(255, 255, 255, 0.753);
+ }#bloc2dupied{
+    border: 1px solid;
+    width: 500px;
+    height: 600px;
+    margin-top: 200px;
+    margin-left: 50px;
+    border-radius: 25px;
+    margin-bottom: 100px;
+    border-color:violet;
+    background-color: rgba(255, 255, 255, 0.719);
+ }
+ #grdivpied{
+    display: flex;
+ }
+ #pied h1{
+    margin-left: 450px;
+    margin-top: 200px;
+    font-size: 50px;
+ }
+ #bloc1dupied a{
+    margin-left: 50px;
+    border: 1px solid;
+    border-radius: 50px;
+    background-color: rgba(255, 255, 255, 0.548);
+    width: 300px;
+    height: 50px;
+ }
+ #bloc2dupied button{
+    margin-top: 50px;
+    margin-left: 50px;
+    border-radius: 50px;
+    background-color: black;
+    width: 300px;
+ }
